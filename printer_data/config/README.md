@@ -1,4 +1,4 @@
 # Klipper / Moonraker config
 
-- Put `printer.cfg` here.
+- [`printer.cfg`](printer.cfg)
 - Update `[mcu] serial:` to match your own `/dev/serial/by-id/...`.

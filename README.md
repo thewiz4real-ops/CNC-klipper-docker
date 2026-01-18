@@ -168,6 +168,13 @@ Start here: [`docs/README.md`](docs/README.md)
 - Intro: [`docs/00-intro.md`](docs/00-intro.md)
 - Troubleshooting: [`docs/07-troubleshooting.md`](docs/07-troubleshooting.md)
 
+### Video series
+
+1. https://youtu.be/kxLDGCq_10A  
+2. https://youtu.be/fJiFnLpf3eI  
+3. https://youtu.be/0MSGyyyS6cE  
+4. https://youtu.be/JQc37s_PdJk  
+
 ---
 
 ## License
