@@ -1,0 +1,19 @@
+Name,Description,Link,Qty,Notes
+KK60 Linear Actuator (Z),JKK60-10-C-200-A1-F5-C-M (200mm stroke  10mm lead),https://jlcmc.com/product/B16/steel-linear-actuators,1,
+KK60 Linear Actuator (Y),JKK60-10-C-500-A1-F5-C-M (500mm stroke  10mm lead),https://jlcmc.com/product/B16/steel-linear-actuators,2,
+KK60 Linear Actuator (X),JKK60-10-C-600-A1-F5-C-M (600mm stroke  10mm lead),https://jlcmc.com/product/B16/steel-linear-actuators,1,
+Aluminum Extrusion 4080 (720mm),TXCL-H6-4080-L720 (40-series EU 8mm slot),https://jlcmc.com/product/s/T01/TXCL/extruded-aluminum-t-slot-40-series(eu)-8mm-slot-width,2,
+Aluminum Extrusion 4080 (500mm),TXCL-H6-4080-L500 (40-series EU 8mm slot),https://jlcmc.com/product/s/T01/TXCL/extruded-aluminum-t-slot-40-series(eu)-8mm-slot-width,2,
+Touch Plate Z Probe,CNC Router Zero check toolsetter / touch plate,https://www.aliexpress.com/item/1005005580577235.html,,
+Spindle + PSU + Controller,HANPOSE 0.5kW air-cooled spindle ER11 + power supply + speed governor,https://www.aliexpress.com/item/1005009541418072.html,,
+T-slot Track,Woodworking T-slot Track / slide rail (red/blue),https://www.temu.com/goods.html?_bg_fs=1&goods_id=601100146405075,,
+Down Clamps + T sliders,Down clamp set for CNC/routers/drill press,https://www.temu.com/goods.html?_bg_fs=1&goods_id=601100784808116,,
+T-Track Slider Bar (45cm),Aluminum T-Track slider bar 45cm M6/M8 + nuts,https://www.temu.com/goods_snapshot.html?goods_id=601099711211951,,
+Stepper Motors,NEMA17 17HS4401S w/ 1m cable (pack),https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099679708036,,
+90-degree Brackets,Top corner brackets / right-angle connectors (10pcs),https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099954924652,,
+Aluminum Profile Rail (1000mm),"Heavy-duty anodized T-slot rail, EU compatible",https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099720595274,,
+Access Hole Drill Jig,Aluminum profile drill guide jig (2020/2040/3030/3060),https://www.temu.com/no-en/aluminum-profile-drill-guide-access-hole-drill-jig-for-2020-2040-3030-3060-series-aluminum--aluminum-profile-punching-jig-aluminum-profile-punching-locator-aluminum-drilling-auxiliary-tool-g-601100348746525.html, ,Optional but useful
+T-slot Nuts M5 (40 series),RS PRO M5 T-slot nut (40mm profile  8mm slot),https://no.rs-online.com/web/p/connecting-components/7675642,,Qty depends on build
+Bracket Set (plates + nuts + screws),8 joint plates + M3 wrench + 40 M5 nuts + 40 M5x8 screws,https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099554813640,,Optional kit
+Bolts (M5 / M6),Mixed lengths for frame + mounting,,,Qty depends on design
+Aluminum Sheet,~2m aluminum sheet (for spoilboard / plates / mounts),,,Specify thickness/size

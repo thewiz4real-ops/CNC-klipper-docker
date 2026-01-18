@@ -1,0 +1,23 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Docker local overrides
+/docker/docker-compose.override.yml
+/docker/.env
+
+# Klipper / Moonraker runtime (generated)
+/printer_data/gcodes/
+/printer_data/logs/
+/printer_data/run/
+/printer_data/comms/
+/printer_data/database/
+/printer_data/certs/
+/printer_data/systemd/
+/printer_data/.cache/
+
+# Klipper saved vars (generated)
+/printer_data/config/variables.cfg

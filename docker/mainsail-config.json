@@ -1,0 +1,6 @@
+{
+  "defaultLocale": "en",
+  "instancesDB": "moonraker",
+  "hostname": "localhost",
+  "port": 7126
+}

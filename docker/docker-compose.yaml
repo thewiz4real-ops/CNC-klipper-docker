@@ -1,0 +1,25 @@
+services:
+  mainsail:
+    image: ghcr.io/mainsail-crew/mainsail:edge
+    ports:
+      - "8999:80"
+    volumes:
+      - ./mainsail-config.json:/usr/share/nginx/html/config.json:ro
+    restart: unless-stopped
+
+  moonraker:
+    image: mkuf/moonraker:latest
+    ports:
+      - "7126:7126"
+    volumes:
+      - ../printer_data:/opt/printer_data
+    restart: unless-stopped
+
+  klipper:
+    image: mkuf/klipper:latest
+    volumes:
+      - ../printer_data:/opt/printer_data
+      - /dev/serial/by-id:/dev/serial/by-id:ro
+    group_add:
+      - "dialout"
+    restart: unless-stopped

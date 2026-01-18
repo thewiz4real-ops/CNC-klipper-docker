@@ -1,0 +1,10 @@
+# Copy this file to: docker-compose.override.yml
+# Then replace usb-REPLACE_ME with your actual /dev/serial/by-id/... device name.
+# If by-id mapping fails, map /dev/ttyACM0 (or /dev/ttyUSB0) instead
+# And then set [mcu] serial: to match (either by-id or tty)
+
+
+services:
+  klipper:
+    devices:
+      - "/dev/serial/by-id/usb-REPLACE_ME:/dev/serial/by-id/usb-REPLACE_ME"
