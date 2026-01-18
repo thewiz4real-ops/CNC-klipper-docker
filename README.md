@@ -14,6 +14,15 @@ This repo also includes:
 
 ---
 
+## Controller board
+
+This build uses a **BIGTREETECH SKR Mini E3 V3.0**.
+
+Board notes (USB power jumper + flashing Klipper via microSD):
+- [`docs/board-skr-mini-e3-v3.md`](docs/board-skr-mini-e3-v3.md)
+
+---
+
 ## Repo map
 
 | What | Where |
