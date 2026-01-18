@@ -11,8 +11,11 @@ This folder contains the written docs that go with the build + the YouTube walkt
 
 ## Start here
 
+
 - **Intro / what this project is:** `00-intro.md`
 - **Common problems + fixes:** `07-troubleshooting.md`
+- **SKR Mini E3 V3.0 (jumper + flashing):** `board-skr-mini-e3-v3.md`
+
 
 ## What’s coming
 

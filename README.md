@@ -206,6 +206,7 @@ MIT — see [`LICENSE`](LICENSE).
 #### docs
 - [`docs/00-intro.md`](docs/00-intro.md)
 - [`docs/07-troubleshooting.md`](docs/07-troubleshooting.md)
+- [`docs/board-skr-mini-e3-v3.md`](docs/board-skr-mini-e3-v3.md)
 - [`docs/README.md`](docs/README.md)
 
 #### hardware
